@@ -17,3 +17,8 @@
 *.toml linguist-generated=false
 *.toml linguist-documentation=false
 *.toml linguist-detectable=true
+
+*.md linguist-vendored=false
+*.md linguist-generated=false
+*.md linguist-documentation=false
+*.md linguist-detectable=true
